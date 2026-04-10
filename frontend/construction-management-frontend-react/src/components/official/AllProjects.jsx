@@ -6,12 +6,14 @@ const PROJECTS = [
   { name: "Parklands Villa",      plot: "Plot 11A", dev: "P. Okonkwo",  ward: "Parklands", phase: "Foundation", cls: "status-approved", lbl: "Active",  lastInsp: "Mar 10" },
 ];
 
+
+
 export default function AllProjects() {
   return (
     <div className="content-panel active">
       <div className="page-header">
         <h2>All Projects</h2>
-        <p>County-wide view of all registered construction projects.</p>
+        <p>County-widdde view of all registered construction projects.</p>
       </div>
 
       <div className="toolbar">
