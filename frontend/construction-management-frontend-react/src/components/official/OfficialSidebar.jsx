@@ -37,3 +37,4 @@ export default function OfficialSidebar({ activePanel, onNav }) {
     </div>
   );
 }
+
